@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{26983ABE-75AE-441A-8560-EA17B23096BE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UseOfLambdas/Program.cs">
+    <Files>
+      <File FileName="UseOfLambdas/Program.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UseOfLambdas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

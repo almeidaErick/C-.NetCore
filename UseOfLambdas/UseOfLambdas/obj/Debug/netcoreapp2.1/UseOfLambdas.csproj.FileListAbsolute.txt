@@ -1,0 +1,11 @@
+/Users/erickalmeida/Desktop/GitProject/C# & .NetCore/UseOfLambdas/UseOfLambdas/bin/Debug/netcoreapp2.1/UseOfLambdas.deps.json
+/Users/erickalmeida/Desktop/GitProject/C# & .NetCore/UseOfLambdas/UseOfLambdas/bin/Debug/netcoreapp2.1/UseOfLambdas.runtimeconfig.json
+/Users/erickalmeida/Desktop/GitProject/C# & .NetCore/UseOfLambdas/UseOfLambdas/bin/Debug/netcoreapp2.1/UseOfLambdas.runtimeconfig.dev.json
+/Users/erickalmeida/Desktop/GitProject/C# & .NetCore/UseOfLambdas/UseOfLambdas/bin/Debug/netcoreapp2.1/UseOfLambdas.dll
+/Users/erickalmeida/Desktop/GitProject/C# & .NetCore/UseOfLambdas/UseOfLambdas/bin/Debug/netcoreapp2.1/UseOfLambdas.pdb
+/Users/erickalmeida/Desktop/GitProject/C# & .NetCore/UseOfLambdas/UseOfLambdas/obj/Debug/netcoreapp2.1/UseOfLambdas.csprojResolveAssemblyReference.cache
+/Users/erickalmeida/Desktop/GitProject/C# & .NetCore/UseOfLambdas/UseOfLambdas/obj/Debug/netcoreapp2.1/UseOfLambdas.csproj.CoreCompileInputs.cache
+/Users/erickalmeida/Desktop/GitProject/C# & .NetCore/UseOfLambdas/UseOfLambdas/obj/Debug/netcoreapp2.1/UseOfLambdas.AssemblyInfoInputs.cache
+/Users/erickalmeida/Desktop/GitProject/C# & .NetCore/UseOfLambdas/UseOfLambdas/obj/Debug/netcoreapp2.1/UseOfLambdas.AssemblyInfo.cs
+/Users/erickalmeida/Desktop/GitProject/C# & .NetCore/UseOfLambdas/UseOfLambdas/obj/Debug/netcoreapp2.1/UseOfLambdas.dll
+/Users/erickalmeida/Desktop/GitProject/C# & .NetCore/UseOfLambdas/UseOfLambdas/obj/Debug/netcoreapp2.1/UseOfLambdas.pdb
